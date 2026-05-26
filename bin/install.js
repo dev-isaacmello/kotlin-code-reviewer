@@ -3,6 +3,10 @@
 import fs from "fs"
 import path from "path"
 import os from "os"
+import { fileURLToPath } from "url"
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
 
 const SKILLS_DIR = path.join(
   os.homedir(),
@@ -15,7 +19,11 @@ if (!fs.existsSync(SKILLS_DIR)) {
   })
 }
 
-const source = path.resolve("skill.md")
+const source = path.join(
+  __dirname,
+  "..",
+  "SKILL.md"
+)
 
 const destination = path.join(
   SKILLS_DIR,

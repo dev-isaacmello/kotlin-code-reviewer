@@ -1,6 +1,6 @@
 {
   "name": "@dev-isaacmello/kotlin-code-reviewer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Elite Kotlin AI reviewer for production-grade code analysis",
   "type": "module",
   "license": "MIT",
