@@ -1,0 +1,21 @@
+{
+  "name": "kotlin-agent-reviewer",
+  "version": "1.0.0",
+  "description": "Elite Kotlin production-grade AI code reviewer",
+  "skills": [
+    {
+      "name": "kotlin-code-reviewer",
+      "description": "Enterprise Kotlin reviewer focused on idiomatic Kotlin, coroutines, architecture and JVM performance",
+      "path": "skill.md",
+      "tags": [
+        "kotlin",
+        "coroutines",
+        "jvm",
+        "architecture",
+        "compose",
+        "kmp",
+        "code-review"
+      ]
+    }
+  ]
+}

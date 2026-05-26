@@ -1,0 +1,37 @@
+{
+  "name": "@dev-isaacmello/kotlin-code-reviewer",
+  "version": "1.0.0",
+  "description": "Elite Kotlin AI reviewer for production-grade code analysis",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-isaacmello/kotlin-code-reviewer"
+  },
+  "homepage": "https://github.com/dev-isaacmello/kotlin-code-reviewer",
+  "bugs": {
+    "url": "https://github.com/dev-isaacmello/kotlin-code-reviewer/issues"
+  },
+  "keywords": [
+    "kotlin",
+    "ai",
+    "reviewer",
+    "coroutines",
+    "compose",
+    "kmp",
+    "architecture",
+    "agents"
+  ],
+  "bin": {
+    "kotlin-code-reviewer": "./bin/install.js"
+  },
+  "files": [
+    "skill.md",
+    "skills.json",
+    "README.md",
+    "bin"
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}
