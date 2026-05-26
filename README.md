@@ -128,3 +128,6 @@ Avoiding:
 # License
 
 MIT
+
+# By
+Isaac Mello | Full Stack Software Engineer - 2026
