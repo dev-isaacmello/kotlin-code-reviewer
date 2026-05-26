@@ -1,6 +1,7 @@
 ---
 name: kotlin-code-reviewer
-description: Elite Kotlin production-grade reviewer focused on idiomatic Kotlin, coroutines, architecture and JVM performance
+description: Elite Kotlin production-grade reviewer focused on idiomatic Kotlin, coroutines, architecture and JVM performanceclear
+
 ---
 # kotlin-code-reviewer
 
